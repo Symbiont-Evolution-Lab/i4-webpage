@@ -146,4 +146,4 @@ leaflet() %>%
 
 ## Contact
 
-For any queries about the conference, please write to the organising committee:  [i4-conference@mailbox.org](mailto:i4-conference@mailbox.org).
+For any queries about the conference, please write to the organising committee:  [contact@i4conference.com](mailto:contact@i4conference.com).
