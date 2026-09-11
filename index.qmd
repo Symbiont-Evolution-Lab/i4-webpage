@@ -1,11 +1,74 @@
 ---
-title: "test"
+title: "i4 conference"
 ---
 
-This is a Quarto website.
+We are happy to invite you to the inaugural
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Invertebrate Inherited Intracellular Interactions (i4) conference 
 
-```{r}
-1 + 1
-```
+happening **June 30 – July 4 2026**  
+
+in **Kolymvari, Crete**.
+
+
+This conference brings together researchers of any career stage working on intracellular microbes of invertebrates. In this fast developing field, we hope to foster intense scientific exchange in a friendly and inclusive atmosphere. We will hear about recent developments in the field from several keynote speakers and encourage all participants to present on their own novel findings. 
+
+
+
+## Sessions and keynotes
+
+This is a preliminary list of sessions and keynote speakers. More confirmed speakers will be added soon. 
+
+#### Epigenetics in symbiotic host interactions
+* Rupinder Kaur, University of Illinois, Chicago (USA)
+
+#### Multi-partner interactions
+* Anna Michalik, Jagiellonian University, Kraków (Poland)
+
+#### Interactions and the host immune system
+* Bruno Lemaitre, EPFL, Lausanne (Switzerland)
+
+#### Molecular mechanisms of interactions
+* tba
+
+#### Genome regulation and Muller's ratchet
+* tba
+
+#### Vector control 
+* Sara Mitchell, Verily Life Sciences, San Francisco (USA) 
+
+#### Ecology of interactions
+* tba
+
+#### Novel technologies in symbiosis
+* Rebecca Lamason, MIT, Cambridge (USA) 
+
+#### Interactions targeting host sex determination
+* tba
+
+#### Cell biology of interactions
+* tba
+
+#### Symbiont genome evolution
+* tba
+
+#### Open session 
+
+
+
+
+
+
+
+## Support for young researchers 
+
+## Registration
+
+## Abstract submission
+
+## Important deadlines
+
+## Venue
+
+
+

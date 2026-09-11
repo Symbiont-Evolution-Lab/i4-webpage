@@ -1,1 +1,13 @@
 /* css styles */
+
+// Base document colors
+$body-bg: white;
+$body-color: black;
+$link-color: #F97F3C;
+$navbar-bg: white;
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  color: #2D4197;
+}
