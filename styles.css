@@ -10,4 +10,16 @@ $navbar-bg: white;
 
 h1, h2 {
   color: #2D4197;
+  border-bottom: none;
+}
+
+.quarto-accordion .accordion-header-content {
+  font-weight: 700;
+}
+
+.accordion {
+  --bs-accordion-active-color: black;
+  --bs-accordion-btn-focus-border-color: #F97F3C;
+  --bs-accordion-active-bg: #F97F3C;
+  --bs-accordion-btn-focus-box-shadow: 0 0 0 0rem rgba(13, 110, 253, 0.25);
 }

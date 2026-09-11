@@ -1,74 +1,147 @@
 ---
-title: "i4 conference"
+pagetitle: "i4 conference"
+
+accordion:
+  - sessions:
+    - header: Epigenetics in symbiotic host interactions
+      body: "**Rupinder Kaur**, University of Illinois, Chicago, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
+      collapsed: false
+    - header: Multi-partner interactions
+      body: "**Anna Michalik**, Jagiellonian University, Kraków, Poland ([https://symbio.eko.uj.edu.pl/en/staff/anna-michalik](https://symbio.eko.uj.edu.pl/en/staff/anna-michalik))"
+      collapsed: false
+    - header: Symbiont interactions and the host immune system
+      body: "**Bruno Lemaitre**, EPFL, Lausanne, Switzerland ([https://www.epfl.ch/labs/lemaitrelab/](https://www.epfl.ch/labs/lemaitrelab/))"
+      collapsed: false
+    - header: Vector control
+      body: "**Sara Mitchell**, Verily Life Sciences, San Francisco, USA ([https://debug.com/](https://debug.com/))"
+      collapsed: false
+    - header: Novel technologies in symbiosis research
+      body: "**Rebecca Lamason**, MIT, Cambridge, USA ([https://biology.mit.edu/profile/rebecca-lamason/](https://biology.mit.edu/profile/rebecca-lamason/))"
+      collapsed: false
+    - header: Genome regulation and Muller's ratchet
+      body: "*tba*"
+    - header: Molecular mechanisms of interactions
+      body: "*tba*"
+    - header: Ecology of interactions
+      body: "*tba*"
+    - header: Interactions targeting host sex determination
+      body: "*tba*"
+    - header: Cell biology of interactions
+      body: "*tba*"
+    - header: Symbiont genome evolution
+      body: "*tba*"
 ---
+
+<center>
 
 We are happy to invite you to the inaugural
 
-Invertebrate Inherited Intracellular Interactions (i4) conference 
+[Invertebrate Inherited Intracellular Interactions (I4) conference]{style="color: #2D4197; font-size: 40px; font-weight: bold"}
 
-happening **June 30 – July 4 2026**  
+<span style="font-size: 28px; font-weight: bold">
 
-in **Kolymvari, Crete**.
+<p>June 30 – July 4, 2027</p>
+
+<p>Kolymvari, Crete</p>
+
+</span>
 
 
-This conference brings together researchers of any career stage working on intracellular microbes of invertebrates. In this fast developing field, we hope to foster intense scientific exchange in a friendly and inclusive atmosphere. We will hear about recent developments in the field from several keynote speakers and encourage all participants to present on their own novel findings. 
+
+This conference brings together researchers of any career stage working on intracellular microbes of invertebrates. In this fast developing field, we hope to foster intense scientific exchange in a friendly and inclusive atmosphere. We will hear about recent developments in the field from several keynote speakers and encourage all participants to present on their own novel findings.
+
+We look forward to welcoming you in Crete!
+
+[The organising committee](team.qmd)
+
+</center>
+
+
+
+::: column-margin
+::: callout-important
+## Upcoming deadlines
+
+|||
+|--------------|-----------:|
+| Scholarships | **Jan 15** |
+| Abstracts    | **Jan 31** |
+| Early bird   | **Feb 28** |
+| Regular      | **Mar 31** |
+
+:::
+:::
 
 
 
 ## Sessions and keynotes
 
-This is a preliminary list of sessions and keynote speakers. More confirmed speakers will be added soon. 
+This is a preliminary list of sessions and keynote speakers. More confirmed speakers will be added soon.
 
-#### Epigenetics in symbiotic host interactions
-* Rupinder Kaur, University of Illinois, Chicago (USA)
-
-#### Multi-partner interactions
-* Anna Michalik, Jagiellonian University, Kraków (Poland)
-
-#### Interactions and the host immune system
-* Bruno Lemaitre, EPFL, Lausanne (Switzerland)
-
-#### Molecular mechanisms of interactions
-* tba
-
-#### Genome regulation and Muller's ratchet
-* tba
-
-#### Vector control 
-* Sara Mitchell, Verily Life Sciences, San Francisco (USA) 
-
-#### Ecology of interactions
-* tba
-
-#### Novel technologies in symbiosis
-* Rebecca Lamason, MIT, Cambridge (USA) 
-
-#### Interactions targeting host sex determination
-* tba
-
-#### Cell biology of interactions
-* tba
-
-#### Symbiont genome evolution
-* tba
-
-#### Open session 
+{{< accordion sessions >}}
 
 
+## Conference fees
+
+The registration fee covers accommodation, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion.
+
+During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis.
+
+Participants with special needs will have priority to single room accommodations.
+
+|                                                     | Early bird | Regular  |
+|-----------------------------------------------------|----------------|----------------|
+| Conference & single room at OAC + all meals                                  |           1040€ |           1240€ |
+| Conference & shared double room at OAC + all meals                                  |            880€ |           1080€ |
+| Conference only (no accommodation and meals at OAC) |            660€ |            860€ |
+
+## Registration and abstract submission
+
+Registration will open soon, please stay tuned!
+
+## Stipends for junior researchers
+
+The organizing committee encourages the young researchers' scientific effort and is pleased to announce the partial waiver (50%) of registration and accommodation fees for master and PhD students as well as early career postdocs (<= 4 years post PhD).
+
+Selected candidates are expected to present their work with oral or poster presentations Applicants from typically underrepresented regions (e.g., the global south) are especially encouraged to apply. 
+
+Applications can be made during the abstract submission process and must include 
+
+* Official document of your institution that demonstrates your position
+* A short CV
+* A cover letter expressing your interest in the conference and a justification for why you require the financial support
+
+The outcome of the decision process will be communicated in time for registration. 
+ 
+## Important dates and deadlines
+
+|||
+|--------------------------------------------|-------------------:|
+| Scholarship application deadline           | **15 / 01 / 2027** |
+| Abstract submission deadline               | **31 / 01 / 2027** |
+| Abstract/scholarship decision announcement | **15 / 02 / 2027** |
+| Early bird registration deadline           | **28 / 02 / 2027** |
+| Regular registration deadline              | **31 / 03 / 2027** |
+
+
+## Venue & how to reach
+
+The “Ioannis Daskalogiannis” international airport of Chania (CHQ) is strongly recommended as the final destination of your flights, because it is only 44 km (27 miles) away from the venue and it is well served during the summer. The other choice for your flights is the “Nicos Kazantzakis” airport of Heraklion (HER), however it is not recommended, as it is much further away from the venue (164km/102miles). One or two bus transfers from and to Chania airport (CHQ) will be organized. Details will be provided closer to the time of the Conference. Participants may also take a taxi from the airport of Chania that costs about 60-75 Euro (a 50 min drive) or use public bus transportation between Chania Airport and Kolymbari (Kolymbari bus stop) which is operated by the public transport company KTEL: http://www.e-ktel.com/. Participants arriving at the Heraklion airport (HER) may take a bus to Chania and then a bus or taxi from there to Kolymbari (more than 3 hours). Taking a taxi from Heraklion to Kolymbari is not recommended as it is a 2.5 hour drive and thus very expensive (more than 200 Euro). Participants arriving at the Heraklion airport may also rent a car at Heraklion airport and drive to Kolymbari.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>% 
+  addMarkers(lat=35.55257186486049, lng=23.776715130601563, popup="Orthodox Academy of Crete")
+```
 
 
 
 
 
-## Support for young researchers 
+## Contact
 
-## Registration
-
-## Abstract submission
-
-## Important deadlines
-
-## Venue
-
-
-
+For any queries about the conference, please write to the organising committee:  [i4-conference@mailbox.org](mailto:i4-conference@mailbox.org).
