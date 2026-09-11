@@ -80,20 +80,21 @@ This is a preliminary list of sessions and keynote speakers. More confirmed spea
 
 {{< accordion sessions >}}
 
+## Venue
+
+OAC – more information soon!
 
 ## Conference fees
 
 The registration fee covers accommodation, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion.
 
-During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis.
+During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis. Participants with special needs will have priority to single room accommodations. It is also possible to book accommodation outside of the Academy.
 
-Participants with special needs will have priority to single room accommodations.
-
-|                                                     | Early bird      | Regular         |
-|-----------------------------------------------------|----------------:|----------------:| 
-| Conference & single room at OAC + all meals         |          1040 € |          1240 € | 
-| Conference & shared double room at OAC + all meals  |           880 € |          1080 € | 
-| Conference only (no accommodation and meals at OAC) |           660 € |           860 € |
+|                                                     | Early bird | Regular|
+|-----------------------------------------------------|-----------:|-------:| 
+| Conference & single room at OAC + all meals         |     1040 € | 1240 € | 
+| Conference & shared double room at OAC + all meals  |      880 € | 1080 € | 
+| Conference only (no accommodation and meals at OAC) |      660 € |  860 € |
 
 ## Registration and abstract submission
 
@@ -124,7 +125,7 @@ The outcome of the decision process will be communicated in time for registratio
 | Regular registration deadline              | **31 / 03 / 2027** |
 
 
-## Venue & how to reach
+## How to reach
 
 The “Ioannis Daskalogiannis” international airport of Chania (CHQ) is strongly recommended as the final destination of your flights, because it is only 44 km (27 miles) away from the venue and it is well served during the summer. The other choice for your flights is the “Nicos Kazantzakis” airport of Heraklion (HER), however it is not recommended, as it is much further away from the venue (164km/102miles). One or two bus transfers from and to Chania airport (CHQ) will be organized. Details will be provided closer to the time of the Conference. Participants may also take a taxi from the airport of Chania that costs about 60-75 Euro (a 50 min drive) or use public bus transportation between Chania Airport and Kolymbari (Kolymbari bus stop) which is operated by the public transport company KTEL: http://www.e-ktel.com/. Participants arriving at the Heraklion airport (HER) may take a bus to Chania and then a bus or taxi from there to Kolymbari (more than 3 hours). Taking a taxi from Heraklion to Kolymbari is not recommended as it is a 2.5 hour drive and thus very expensive (more than 200 Euro). Participants arriving at the Heraklion airport may also rent a car at Heraklion airport and drive to Kolymbari.
 
