@@ -89,11 +89,11 @@ During the registration process, participants will have the option to specify so
 
 Participants with special needs will have priority to single room accommodations.
 
-|                                                     | Early bird | Regular  |
-|-----------------------------------------------------|----------------|----------------|
-| Conference & single room at OAC + all meals                                  |           1040€ |           1240€ |
-| Conference & shared double room at OAC + all meals                                  |            880€ |           1080€ |
-| Conference only (no accommodation and meals at OAC) |            660€ |            860€ |
+|                                                     | Early bird      | Regular         |
+|-----------------------------------------------------|----------------:|----------------:| 
+| Conference & single room at OAC + all meals         |          1040 € |          1240 € | 
+| Conference & shared double room at OAC + all meals  |           880 € |          1080 € | 
+| Conference only (no accommodation and meals at OAC) |           660 € |           860 € |
 
 ## Registration and abstract submission
 
@@ -132,6 +132,8 @@ The “Ioannis Daskalogiannis” international airport of Chania (CHQ) is stro
 #| echo: false
 #| message: false
 #| warning: false
+#| column: screen-inset-right
+
 library(leaflet)
 leaflet() %>%
   addTiles() %>% 
