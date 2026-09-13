@@ -4,25 +4,29 @@ pagetitle: "i4 conference"
 accordion:
   - sessions:
     - header: Epigenetics in symbiotic host interactions
-      body: "**Rupinder Kaur**, University of Illinois, Chicago, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
+      body: "**Rupinder Kaur**, University of Illinois, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
       collapsed: false
     - header: Multi-partner interactions
-      body: "**Anna Michalik**, Jagiellonian University, Kraków, Poland ([https://symbio.eko.uj.edu.pl/en/staff/anna-michalik](https://symbio.eko.uj.edu.pl/en/staff/anna-michalik))"
+      body: |
+        **Anna Michalik**, Jagiellonian University, Kraków, Poland ([https://symbio.eko.uj.edu.pl/en/staff/anna-michalik](https://symbio.eko.uj.edu.pl/en/staff/anna-michalik))\  
+        
+        **Jen White**, University of Kentucky, USA ([https://entomology.mgcafe.uky.edu/directory/white-jen](https://entomology.mgcafe.uky.edu/directory/white-jen))
       collapsed: false
     - header: Symbiont interactions and the host immune system
-      body: "**Bruno Lemaitre**, EPFL, Lausanne, Switzerland ([https://www.epfl.ch/labs/lemaitrelab/](https://www.epfl.ch/labs/lemaitrelab/))"
+      body: "**Bruno Lemaitre**, EPFL, Switzerland ([https://www.epfl.ch/labs/lemaitrelab/](https://www.epfl.ch/labs/lemaitrelab/))"
       collapsed: false
     - header: Vector control
-      body: "**Sara Mitchell**, Verily Life Sciences, San Francisco, USA ([https://debug.com/](https://debug.com/))"
+      body: "**Sara Mitchell**, Verily Life Sciences, USA ([https://debug.com/](https://debug.com/))"
       collapsed: false
     - header: Novel technologies in symbiosis research
-      body: "**Rebecca Lamason**, MIT, Cambridge, USA ([https://biology.mit.edu/profile/rebecca-lamason/](https://biology.mit.edu/profile/rebecca-lamason/))"
+      body: "**Rebecca Lamason**, MIT, USA ([https://biology.mit.edu/profile/rebecca-lamason/](https://biology.mit.edu/profile/rebecca-lamason/))"
+      collapsed: false
+    - header: Ecology of interactions
+      body: "**Matt Ballinger**, Mississippi State University, USA  ([https://ballingerlab.weebly.com/](https://ballingerlab.weebly.com/))"
       collapsed: false
     - header: Genome regulation and Muller's ratchet
       body: "*tba*"
     - header: Molecular mechanisms of interactions
-      body: "*tba*"
-    - header: Ecology of interactions
       body: "*tba*"
     - header: Interactions targeting host sex determination
       body: "*tba*"
