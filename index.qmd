@@ -138,7 +138,14 @@ The I4 Conference will take place at the [Orthodox Academy Crete](https://www.oa
 ![](OAC2.jpg)
 
 ![](OAC3.jpg)
-The “Ioannis Daskalogiannis” international airport of Chania (CHQ) is strongly recommended as the final destination of your flights, because it is only 44 km (27 miles) away from the venue and it is well served during the summer. The other choice for your flights is the “Nicos Kazantzakis” airport of Heraklion (HER), however it is not recommended, as it is much further away from the venue (164km/102miles). One or two bus transfers from and to Chania airport (CHQ) will be organized. Details will be provided closer to the time of the Conference. Participants may also take a taxi from the airport of Chania that costs about 60-75 Euro (a 50 min drive) or use public bus transportation between Chania Airport and Kolymbari (Kolymbari bus stop) which is operated by the public transport company KTEL: http://www.e-ktel.com/. Participants arriving at the Heraklion airport (HER) may take a bus to Chania and then a bus or taxi from there to Kolymbari (more than 3 hours). Taking a taxi from Heraklion to Kolymbari is not recommended as it is a 2.5 hour drive and thus very expensive (more than 200 Euro). Participants arriving at the Heraklion airport may also rent a car at Heraklion airport and drive to Kolymbari.
+
+The Orthodox Academy of Crete (OAC) is about 39 km from the airport (Chania International Airport Ioannis Daskalogiannis – CHQ) and 24 km from the city of Chania.
+
+From the airport, delegates and visitors may reach the OAC:
+
+{{< fa taxi >}}  By taxi the venue is about 35-40 minutes ride.
+
+{{< fa bus >}}  Alternatively, delegates can travel from the airport to Chania central bus station by either bus or taxi and from there to Kolymvari by bus/coach service ([https://www.e-ktel.com/en/](https://www.e-ktel.com/en/)). Buses run from the city of Chania to Kolymvari approximately every twenty minutes ([bus schedule](https://www.e-ktel.com/images/announcements/CHANIA_FROM_11-09-2026A.pdf)). The OAC is about 1.5 km from the bus stop in the center of Kolymvari.
 
 ```{r}
 #| echo: false
@@ -151,8 +158,6 @@ leaflet() %>%
   addTiles() %>% 
   addMarkers(lat=35.55257186486049, lng=23.776715130601563, popup="Orthodox Academy of Crete")
 ```
-
-
 
 
 
