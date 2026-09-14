@@ -34,6 +34,13 @@ accordion:
       body: "*tba*"
     - header: Symbiont genome evolution
       body: "*tba*"
+      
+custom-callout:
+  Deadlines:
+    icon-symbol: "fa-calendar-check"
+    color: "#F97F3C"
+filters:
+- custom-callout
 ---
 
 <center>
@@ -44,9 +51,9 @@ We are happy to invite you to the inaugural
 
 <span style="font-size: 28px; font-weight: bold">
 
-<p>June 29 – July 4, 2027</p>
+<p><b>June 29 – July 4, 2027</b></p>
 
-<p>Kolymvari, Crete</p>
+<p><b>Kolymvari, Crete</b></p>
 
 </span>
 
@@ -63,8 +70,7 @@ We look forward to welcoming you in Crete!
 
 
 ::: column-margin
-::: callout-important
-## Upcoming deadlines
+::: Deadlines
 
 |||
 |--------------|-----------:|
