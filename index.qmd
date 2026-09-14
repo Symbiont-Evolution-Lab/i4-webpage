@@ -90,10 +90,6 @@ This is a preliminary list of sessions and keynote speakers. More confirmed spea
 
 {{< accordion sessions >}}
 
-## Venue
-
-OAC – more information soon!
-
 ## Conference fees
 
 The registration fee covers accommodation, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion. Transport to the airport on the final day of the conference is also covered in the fee.
