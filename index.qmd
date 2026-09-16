@@ -4,6 +4,7 @@ title: |
   <br>
   <br>
 title-block-banner: banner.png
+lightbox: true
 accordion:
   - categories:
     - header: test1
@@ -147,11 +148,14 @@ The outcome of the decision process will be communicated in time for registratio
 
 The I4 Conference will take place at the [Orthodox Academy Crete](https://www.oac.gr/en).
 
-![](OAC1.jpg)
+::: {layout="[[1] ,[1,1]]"}
 
-![](OAC2.jpg)
+![](OAC1.jpg){group="gallery"}
 
-![](OAC3.jpg)
+![](OAC2.jpg){group="gallery"}
+
+![](OAC3.jpg){group="gallery"}
+:::
 
 The Orthodox Academy of Crete (OAC) is about 39 km from the airport (Chania International Airport Ioannis Daskalogiannis – CHQ) and 24 km from the city of Chania.
 
