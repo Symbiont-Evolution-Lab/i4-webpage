@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "i4 conference website"
+  title: "Home"
   sidebar:
     logo: logo.png
   page-footer:
     center: 
-      - text: "I4 logo by Michelle Borgers, Banner image by Pratyaksh Singh and Elina Koivisto"
+      - text: "Special thanks to Michelle Borgers for designing the I4 logo, and to Pratyaksh Singh & Elina Koivisto for providing the banner image"
 
 format:
   html:

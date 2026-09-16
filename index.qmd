@@ -1,5 +1,5 @@
 ---
-pagetitle: "I4 Conference"
+pagetitle: "I4 conference"
 title: |
   <br>
   <br>
