@@ -2,6 +2,9 @@
 pagetitle: "I4 Conference"
 
 accordion:
+  - categories:
+    - header: test1
+      body: test2
   - sessions:
     - header: Epigenetics in symbiotic host interactions
       body: "**Rupinder Kaur**, University of Illinois, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
@@ -38,6 +41,7 @@ accordion:
       
 custom-callout:
   Deadlines:
+    title: "2027 Deadlines"
     icon-symbol: "fa-calendar-check"
     color: "#F97F3C"
 filters:
@@ -101,7 +105,9 @@ During the registration process, participants will have the option to specify so
 |-----------------------------------------------------|-----------:|-------:| 
 | Conference & single room at OAC + all meals         |     1040 € | 1240 € | 
 | Conference & shared double room at OAC + all meals  |      880 € | 1080 € | 
-| Conference only (no accommodation and meals at OAC) |      660 € |  860 € |
+| Conference without accommodation at OAC*            |      660 € |  860 € |
+*Please note that if you chose this option, you will be responsible for booking accommodation and breakfast for yourself outside of OAC. All other meals and activities are covered.
+
 
 ## Registration and abstract submission
 
@@ -166,4 +172,4 @@ leaflet() %>%
 
 ## Contact
 
-For any queries about the conference, please write to the organising committee:  [contact@i4conference.com](mailto:contact@i4-conference.com).
+For any queries about the conference, please write to the organising committee:  [contact@i4-conference.com](mailto:contact@i4-conference.com).
