@@ -1,6 +1,9 @@
 ---
 pagetitle: "I4 Conference"
-
+title: |
+  <br>
+  <br>
+title-block-banner: banner.png
 accordion:
   - categories:
     - header: test1
@@ -52,7 +55,7 @@ filters:
 
 We are happy to invite you to the inaugural
 
-[Invertebrate Inherited Intracellular Interactions (I4) conference]{style="color: #2D4197; font-size: 40px; font-weight: bold"}
+[Invertebrate Inherited Intracellular Interactions (I4) Conference]{style="color: #2D4197; font-size: 40px; font-weight: bold"}
 
 <span style="font-size: 28px; font-weight: bold">
 
@@ -72,8 +75,6 @@ We look forward to welcoming you in Crete!
 
 </center>
 
-
-
 ::: column-margin
 ::: Deadlines
 
@@ -86,8 +87,12 @@ We look forward to welcoming you in Crete!
 
 :::
 :::
+ 
+<br>
 
+--------------------------
 
+<br>
 
 ## Sessions and keynotes
 
@@ -97,9 +102,9 @@ This is a preliminary list of sessions and keynote speakers. More confirmed spea
 
 ## Conference fees
 
-The registration fee covers accommodation, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion. Transport to the airport on the final day of the conference is also covered in the fee.
+The registration fee covers accommodation at the Orthodox Academy of Crete (OAC)*, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion. Transport to the airport on the final day of the conference is also covered in the fee.
 
-During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis. Participants with special needs will have priority to single room accommodations. It is also possible to book accommodation outside of the Academy.
+During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis. Participants with special needs will have priority to single room accommodations. It is also possible to book accommodation outside of the academy*.
 
 |                                                     | Early bird | Regular|
 |-----------------------------------------------------|-----------:|-------:| 
@@ -115,13 +120,13 @@ Registration will open soon, please stay tuned!
 
 ## Stipends for junior researchers
 
-The organizing committee is pleased to announce the partial waiver (50%) of registration and accommodation fees for master and PhD students as well as early career postdocs (<= 4 years post PhD).
+The organizing committee is can offer a partial waiver (50%) of registration and accommodation fees for master and PhD students as well as early career postdocs (<= 4 years post PhD) without sufficient funds to cover attendance.
 
-Selected candidates are expected to present their work with oral or poster presentations Applicants from typically underrepresented regions (e.g., the global south) are especially encouraged to apply. 
+Selected candidates are expected to present their work with oral or poster presentations. Applicants from typically underrepresented regions (e.g., the global south) are especially encouraged to apply. 
 
-Applications can be made during the abstract submission process and must include 
+Applications can be made during the abstract submission process and must include: 
 
-* Official document of your institution that demonstrates your position
+* Official document from your institution demonstrating your association
 * A short CV
 * A cover letter expressing your interest in the conference and a justification for why you require the financial support
 
