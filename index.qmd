@@ -34,10 +34,12 @@ accordion:
     - header: Genome evolution
       body: "**Filip Husnik**, OIST, Japan ([https://www.oist.jp/research/research-units/ecbsu/filip-husnik](https://www.oist.jp/research/research-units/ecbsu/filip-husnik))"
       collapsed: false
-    - header: Genome regulation and Muller's ratchet
-      body: "*tba*"
     - header: Molecular mechanisms of interactions
-      body: "*tba*"
+      body: |
+        **Jeanne Salje**, University of Cambridge, UK ([https://saljelab.com](https://saljelab.com/team/))
+        
+        **Luis Teixeira**, Católica Biomedical Research Centre, Portugal ([https://fm.ucp.pt/pt-pt/pessoa/luis-teixeira](https://fm.ucp.pt/pt-pt/pessoa/luis-teixeira))
+      collapsed: false
     - header: Interactions targeting host sex determination
       body: "*tba*"
     - header: Cell biology of interactions
