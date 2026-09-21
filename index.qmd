@@ -52,6 +52,7 @@ custom-callout:
     color: "#F97F3C"
 filters:
 - custom-callout
+- modal
 ---
 
 <center>
@@ -74,7 +75,11 @@ This conference brings together researchers of any career stage working on intra
 
 We look forward to welcoming you in Crete!
 
-[The organising committee](team.qmd)
+[The organising committee](#modal-hello)
+
+::: {#modal-hello size=lg}
+{{< include team.qmd >}}
+:::
 
 </center>
 
