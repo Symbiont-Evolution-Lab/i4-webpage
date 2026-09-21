@@ -11,7 +11,7 @@ accordion:
       body: test2
   - sessions:
     - header: Epigenetics in symbiotic host interactions
-      body: "**Rupinder Kaur**, University of Illinois, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
+      body: "**Rupinder Kaur**, University of Illinois Chicago, USA ([https://www.rkaur.org/](https://www.rkaur.org/))" 
       collapsed: false
     - header: Multi-partner interactions
       body: |
@@ -105,7 +105,7 @@ This is a preliminary list of sessions and keynote speakers. More confirmed spea
 
 ## Conference fees
 
-The registration fee covers accommodation at the Orthodox Academy of Crete (OAC)*, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion. Transport to the airport on the final day of the conference is also covered in the fee.
+The registration fee covers accommodation at the Orthodox Academy of Crete (OAC)*, all meals (breakfast, lunch, dinner), coffee/tea during the breaks, participation at the welcome reception, and at traditional Cretan night, plus a group excursion. Transport to the airport on the final day of the conference is also covered.
 
 During the registration process, participants will have the option to specify someone as their roommate and, wherever possible, these requests will be honored. Single room accommodation will be allocated on a first come first serve basis. Participants with special needs will have priority to single room accommodations. It is also possible to book accommodation outside of the academy*.
 
@@ -123,7 +123,7 @@ Registration will open soon, please stay tuned!
 
 ## Stipends for junior researchers
 
-The organizing committee is can offer a partial waiver (50%) of registration and accommodation fees for master and PhD students as well as early career postdocs (<= 4 years post PhD) without sufficient funds to cover attendance.
+We offer a partial waiver (50%) of registration and accommodation fees for master and PhD students as well as early career postdocs (<= 4 years post PhD) without sufficient funds to cover attendance.
 
 Selected candidates are expected to present their work with oral or poster presentations. Applicants from typically underrepresented regions (e.g., the global south) are especially encouraged to apply. 
 
