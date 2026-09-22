@@ -81,6 +81,9 @@ We look forward to welcoming you in Crete!
 {{< include team.qmd >}}
 :::
 
+<br>
+[**Join our mailing list!**](https://cryptpad.fr/form/#/2/form/view/EKBM5AA7+h16mlsyO0ScXv2nG1jqfQCXWyz501Sx2sU/embed/)
+
 </center>
 
 ::: column-margin
@@ -189,3 +192,5 @@ leaflet() %>%
 ## Contact
 
 For any queries about the conference, please write to the organising committee:  [contact@i4-conference.com](mailto:contact@i4-conference.com).
+
+Please [join our mailing list](https://cryptpad.fr/form/#/2/form/view/EKBM5AA7+h16mlsyO0ScXv2nG1jqfQCXWyz501Sx2sU/embed/) to receive news and updates!
