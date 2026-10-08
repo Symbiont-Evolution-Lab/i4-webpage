@@ -23,7 +23,7 @@ accordion:
       body: "**Bruno Lemaitre**, EPFL, Switzerland ([https://www.epfl.ch/labs/lemaitrelab/](https://www.epfl.ch/labs/lemaitrelab/))"
       collapsed: false
     - header: Vector control
-      body: "**Sara Mitchell**, Verily Life Sciences, USA ([https://debug.com/](https://debug.com/))"
+      body: "**Sara Mitchell**, Debug at Google LLC, USA ([https://debug.com/](https://debug.com/))"
       collapsed: false
     - header: Novel technologies in symbiosis research
       body: "**Rebecca Lamason**, MIT, USA ([https://biology.mit.edu/profile/rebecca-lamason/](https://biology.mit.edu/profile/rebecca-lamason/))"
